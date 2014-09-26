@@ -1,4 +1,4 @@
 timer
 =====
 
-the cxTimer package
+the uxTimer package
